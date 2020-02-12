@@ -17,5 +17,9 @@
     "path": "^0.12.7",
     "sqlite3": "^4.1.1",
     "umzug": "^2.2.0"
+  },
+  "devDependencies": {
+    "js-yaml": "^3.13.1",
+    "serialize-javascript": "^2.1.1"
   }
 }
